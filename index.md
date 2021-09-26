@@ -12,4 +12,4 @@ and my learning philosophy is
 
 My favorite code is `Hello world`
 
-I like traveling, my info refers to [HY travel](#hy_travel)
+I like traveling, my info refers to [HY travel](#hy_travel.md)
