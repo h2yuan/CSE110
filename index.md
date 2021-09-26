@@ -22,7 +22,7 @@ I like traveling, more info refers to [HY travel](hy_travel.md)
 
 I enjoy playing switch, and one classical image of my favorite game is here:
 
-
+![F G](zelda_picture.jpg)
 
 I also like other switch games like:
 
