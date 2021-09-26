@@ -20,7 +20,7 @@ I hope I can be a good software engineer in the future.
 
 I like traveling, more info refers to [HY travel](hy_travel.md)
 
-I enjoy playing switch, and one classical image my favorite game is here:
+I enjoy playing switch, and one classical image of my favorite game is here:
 
 ![F G](https://github.com/h2yuan/CSE110/blob/main/zelda_picture.jpg)
 
@@ -34,7 +34,7 @@ I also like other switch games like:
 
 My favorite singer is Jay Chou, and I like Chinese pop music the most.
 
-What CS languages I'm familiar with:
+What computer languages I'm familiar with:
 
 - C++
 - Java
