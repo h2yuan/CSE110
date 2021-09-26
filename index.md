@@ -18,7 +18,7 @@ I hope I can be a good software engineer in the future.
 
 ### My Hobbies
 
-I like traveling, more info refers to [HY travel](hy_travel.md)
+
 
 I enjoy playing switch, and one classical image of my favorite game is here:
 
