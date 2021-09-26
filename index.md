@@ -6,4 +6,6 @@ I am from Zhengzhou, China.
 
 I have great interest in studying CS, 
 
-and my believe is > Practice makes perfect
+and my believe is
+
+> Practice makes perfect
