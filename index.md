@@ -42,4 +42,9 @@ What CS languages I'm familiar with:
 - Java
 - Python
 
+My Wish of taking CSE110:
+
+- [ ] make new friends
+- [ ] learn something useful
+
 
