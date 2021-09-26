@@ -1,6 +1,6 @@
 # Hao Yuan's User page
 
-I am from Zhengzhou, China.
+I am from Zhengzhou, China. Here is a brief introduction of my hometown: [Google Zhengzhou](https://en.wikipedia.org/wiki/Zhengzhou)
 
 **My major is Math-ComputerScience.**
 
