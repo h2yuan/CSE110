@@ -47,6 +47,7 @@ My Wish of taking CSE110:
 - [ ] make new friends
 - [ ] learn something useful
 
-Here is a quick to the top
+
+Here is a quick way to the top
 
 [index](#introduction)
