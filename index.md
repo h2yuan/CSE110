@@ -18,27 +18,6 @@ and my learning philosophy is
 
 My favorite code is `Hello world`
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ### My Hobbies
 
 I like traveling, more info refers to [HY travel](hy_travel.md)
