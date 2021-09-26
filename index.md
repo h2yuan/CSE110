@@ -1,8 +1,8 @@
 # Hao Yuan's User page
 
-Here is the quick to my hobbies
+Here is the quick to my wish
 
-[index](#my_hobbies)
+[index](#my_wish)
 
 ### Me
 
@@ -17,6 +17,8 @@ and my learning philosophy is
 > Practice makes perfect.
 
 My favorite code is `Hello world`
+
+I hope I can be a good software engineer in the future.
 
 ### My Hobbies
 
@@ -41,6 +43,8 @@ What CS languages I'm familiar with:
 - C++
 - Java
 - Python
+
+### My Wish
 
 My Wish of taking CSE110:
 
