@@ -45,6 +45,6 @@ What computer languages I'm familiar with:
 My Wish of taking CSE110:
 
 - [ ] make new friends
-- [ ] learn something useful
+- [x] learn something useful
 
 Here is a quick way to the top: [index](#introduction)
