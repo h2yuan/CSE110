@@ -2,10 +2,11 @@
 
 I am from Zhengzhou, China.
 
-**My major is Math-ComputerScience**
+**My major is Math-ComputerScience.**
 
 I have great interest in studying CS, 
 
-and my believe is
+and learning philosophy is
 
-> Practice makes perfect
+> Practice makes perfect.
+
