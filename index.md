@@ -6,7 +6,9 @@ I am from Zhengzhou, China.
 
 I have great interest in studying CS, 
 
-and learning philosophy is
+and my learning philosophy is
 
 > Practice makes perfect.
+
+My favorite code is `Hello world`
 
