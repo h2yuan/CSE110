@@ -28,6 +28,12 @@ I enjoy playing switch, and one classical image my favorite game is here:
 
 It's main page is: https://www.zelda.com/breath-of-the-wild/
 
+I also like other switch games like:
+
+1. Pokemon Shield
+2. Animal Crossing
+3. The Elder Scrolls V: Skyrim
+
 My favorite singer is Jay Chou, and I like Chinese pop music the most.
 
 What CS languages I'm familiar with:
